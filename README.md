@@ -7,6 +7,7 @@ This Weather App is a simple, user-friendly application built with JavaScript, H
 
 Features
 
+
 Real-Time Weather Data:  Fetches current weather information from the OpenWeather API.
 
 City Search:  Enter any city name to get the latest weather details.
@@ -18,7 +19,9 @@ Temperature Units:  Displays temperature in Celsius by default.
 Error Handling:  Handles errors gracefully, such as invalid city names or network issues.
 
 
+
 Technologies Used
+
 
 JavaScript: Core logic for fetching and displaying weather data.
 
