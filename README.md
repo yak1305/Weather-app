@@ -3,7 +3,9 @@
 Weather App
 
 Overview
+
 This Weather App is a simple, user-friendly application built with JavaScript, HTML, and CSS that fetches real-time weather data from the OpenWeather API. The app allows users to enter a city name and receive up-to-date weather information, including temperature, humidity, weather conditions, min and max temperatures and more.
+
 
 ->Features
 
